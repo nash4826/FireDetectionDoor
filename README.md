@@ -1,7 +1,9 @@
 ### 화재감지 도어락
 
 > MCU : ATmega128
+
 > IDE : CodeVision
+
 > Language : C
 
 대학교 3학년 진행했던 코드를 살펴보다가 가독성이 안좋다는 것을 느꼈다.
